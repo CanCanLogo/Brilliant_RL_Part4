@@ -1,5 +1,6 @@
 # 强化学习第四次作业报告
 
+
 ## 任务一： Bandit算法和REINFORCE算法
 
 需要实现三种Bandit算法（epsilon-greedy、Thompson采样和UCB），以及简单的REINFORCE算法。强化学习环境为多臂老虎机问题 ( Multi-armed bandit problem, MAB )。多臂老虎机是一个赌博问题，要在未知每个老虎机收益概率分布情况下做到收益最大化，需要平衡exploitation和exploration。
